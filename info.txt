@@ -1,1 +1,3 @@
 Dodawanie gałęzi
+
+Aktualizacja pliku info.txt 
